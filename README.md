@@ -1,4 +1,4 @@
-AI-Project-Fall-2014
+A simple Magic the Gathering Agent
 ====================
 
-Group project for Fred Martin's Artificial Intelligence Class
+Group project for Fred Martin's AI Class
